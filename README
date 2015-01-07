@@ -1,6 +1,6 @@
 Program to detect palindromes.
 
-works using reverse method
+changed to work using the unshift method.
 web interface created
 
  
