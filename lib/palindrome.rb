@@ -1,6 +1,7 @@
 class String
   define_method(:palindrome) do
     word = self
+    word = word.gsub(' ','')
     palindrome = false
 
     # reverse word easy way:

@@ -1,6 +1,8 @@
 Program to detect palindromes.
 
+added ability to ignore spaces.
+
 changed to work using the unshift method.
-web interface created
+web interface created.
 
  
